@@ -1,0 +1,27 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "Please create new php page from given mockup. Just a single landing page.",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bylabz/frontend-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bylabz/frontend-test/issues"
+  },
+  "homepage": "https://github.com/bylabz/frontend-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
